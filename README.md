@@ -47,7 +47,7 @@ O Nexus Smart Home é um projeto acadêmico de desenvolvimento de uma residênci
 
 Tecnologia = Aplicação.                                        
 Arduino UNO = Controle e gerenciamento do sistema de iluminação.
-LED WS2812 = Iluminação RGB endereçável.                        
+                                                                LED WS2812 = Iluminação RGB endereçável.                        
 MDF = Estrutura física da residência. 
 Acetato branco translúcido = Difusão da iluminação nas paredes.       
 Protoboard = Desenvolvimento e testes do circuito.
