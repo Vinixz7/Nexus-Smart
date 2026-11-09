@@ -35,10 +35,15 @@ O Nexus Smart Home é um projeto acadêmico de desenvolvimento de uma residênci
 # 🎯 Objetivos
 
 - Desenvolver um protótipo de residência inteligente.
+
 - Integrar conceitos construtivos e tecnológicos.
+  
 - Implementar um sistema de iluminação RGB endereçável.
+  
 - Desenvolver efeitos luminosos programáveis.
+  
 - Explorar a utilização de microcontroladores na automação residencial.
+  
 - Aplicar conceitos de inovação e tecnologia na construção civil.
 
 
@@ -71,13 +76,20 @@ Um dos principais recursos do Nexus Smart Home é o sistema de iluminação RGB,
 
 A estrutura física da residência é desenvolvida em MDF, permitindo a montagem de um protótipo arquitetônico em escala reduzida.
 
-- O processo construtivo contempla:
+O processo construtivo contempla:
+  
 - Planejamento e desenvolvimento do modelo residencial.
+  
 - Preparação e montagem das peças em MDF.
+  
 - Adaptação dos elementos internos para instalação elétrica.
+  
 - Instalação da fita LED WS2812.
+  
 - Desenvolvimento do circuito eletrônico utilizando Arduino UNO.
+  
 - Programação dos efeitos de iluminação.
+  
 - Testes de funcionamento e integração dos componentes.
 
 
