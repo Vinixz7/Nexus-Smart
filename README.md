@@ -1,5 +1,5 @@
 # 🏠 Nexus Smart Home - Automação Residencial e Tecnologia | Inovação
-
+<img width="463" height="431" alt="image" src="https://github.com/user-attachments/assets/2e2c208e-9a40-4093-8109-e0ce077af24f" />
 
 
 # 🎓 Instituição
@@ -47,11 +47,11 @@ O Nexus Smart Home é um projeto acadêmico de desenvolvimento de uma residênci
 
 Tecnologia = Aplicação                                         
 Arduino UNO = Controle e gerenciamento do sistema de iluminação
-LED WS2812                   Iluminação RGB endereçável                        
-MDF                          Estrutura física da residência 
-Acetato branco translúcido   Difusão da iluminação nas paredes       
-Protoboard                   Desenvolvimento e testes do circuito
-Biblioteca FastLed           Programação e controle dos LEDs
+LED WS2812 = Iluminação RGB endereçável                        
+MDF = Estrutura física da residência 
+Acetato branco translúcido = Difusão da iluminação nas paredes       
+Protoboard = Desenvolvimento e testes do circuito
+Biblioteca FastLed = Programação e controle dos LEDs
 
 
 
