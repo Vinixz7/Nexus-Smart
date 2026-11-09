@@ -115,4 +115,5 @@ O Nexus Smart Home busca demonstrar como a integração entre engenharia, eletr�
 
 ---
 
-# **Nexus Smart Home — Conectando engenharia, tecnologia e inovação para transformar o conceito de morar.**
+
+# Nexus Smart Home — Conectando engenharia, tecnologia e inovação para transformar o conceito de morar.*
