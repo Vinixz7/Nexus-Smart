@@ -1,6 +1,7 @@
 # 🏠 Nexus Smart Home - Automação Residencial e Tecnologia | Inovação
 
 
+
 # 🎓 Instituição
 
 ### **UNIFECAF – Centro Universitário**
@@ -8,6 +9,7 @@
 Curso: Engenharia Civil.
 
 Projeto acadêmico desenvolvido no contexto de inovação tecnológica e automação residencial.
+
 
 
 # 👥Desenvolvedores do projeto
@@ -23,9 +25,11 @@ Israel Sales de Albuquerque RA: 107805
 Vinícius Xavier da Silva Calasans RA: 104892
 
 
+
 # 📌 Sobre o Projeto
 
 O Nexus Smart Home é um projeto acadêmico de desenvolvimento de uma residência inteligente em escala reduzida, integrando conceitos de Engenharia Civil, eletrônica e automação residencial. O projeto tem como objetivo demonstrar a aplicação de tecnologias inteligentes em ambientes residenciais, proporcionando maior praticidade, conforto, eficiência energética e modernização das edificações. A proposta consiste na construção de uma residência utilizando estrutura em MDF, incorporando um sistema de iluminação inteligente por meio de uma fita LED endereçável WS2812, controlada por uma placa Arduino UNO.
+
 
 
 # 🎯 Objetivos
@@ -36,6 +40,7 @@ O Nexus Smart Home é um projeto acadêmico de desenvolvimento de uma residênci
 - Desenvolver efeitos luminosos programáveis.
 - Explorar a utilização de microcontroladores na automação residencial.
 - Aplicar conceitos de inovação e tecnologia na construção civil.
+
 
 
 # ⚙️ Tecnologias e Componentes
@@ -49,9 +54,11 @@ O Nexus Smart Home é um projeto acadêmico de desenvolvimento de uma residênci
 | Biblioteca Adafruit NeoPixel | Programação e controle dos LEDs                   |
 
 
+
 # 💡 Sistema de Iluminação Inteligente
 
 Um dos principais recursos do Nexus Smart Home é o sistema de iluminação RGB, desenvolvido com fita LED WS2812. Diferentemente das fitas RGB convencionais, a WS2812 permite o controle individual dos LEDs, possibilitando a criação de diferentes efeitos luminosos, combinações de cores e animações programáveis. O gerenciamento do sistema é realizado por meio da placa Arduino UNO, responsável pelo processamento dos comandos e controle dos efeitos de iluminação. Para proporcionar melhor distribuição visual da luz, é utilizado acetato branco translúcido como elemento difusor, permitindo a criação de efeitos luminosos nas paredes internas da residência.
+
 
 
 # 🏗️ Desenvolvimento Construtivo
@@ -68,6 +75,7 @@ A estrutura física da residência é desenvolvida em MDF, permitindo a montagem
 - Testes de funcionamento e integração dos componentes.
 
 
+
 # 🔌 Arquitetura do Projeto
 
 O projeto é dividido em três principais áreas:
@@ -79,9 +87,11 @@ O projeto é dividido em três principais áreas:
 **Automação residencial:** programação e gerenciamento dos efeitos luminosos.
 
 
+
 # 🚀 Resultados Esperados
 
 O Nexus Smart Home busca demonstrar como a integração entre engenharia, eletrônica e tecnologia pode contribuir para o desenvolvimento de residências mais modernas e funcionais. O protótipo apresenta uma aplicação prática da automação residencial, utilizando iluminação RGB endereçável para demonstrar possibilidades de personalização, controle e modernização dos ambientes.
+
 
 ---
 
