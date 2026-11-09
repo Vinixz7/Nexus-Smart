@@ -1,6 +1,7 @@
 # 🏠 Nexus Smart Home - Automação Residencial e Tecnologia | Inovação
 <p align="center">
-  <img src="<img width="463" height="431" alt="image" src="https://github.com/user-attachments/assets/c4951b37-ebe6-475e-b066-ac587d3335c9" />" alt="Nexus Smart Home" width="400">
+  <img src="<img width="463" height="431" alt="image" src="https://github.com/user-attachments/assets/c4951b37-ebe6-475e-b066-ac587d3335c9">
+  " alt="Nexus Smart Home" width="400">
 </p>
 
 
