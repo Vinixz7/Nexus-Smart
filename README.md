@@ -60,8 +60,6 @@ LED WS2812 = Iluminação RGB endereçável.
 
 MDF = Estrutura física da residência. 
 
-Acetato branco translúcido = Difusão da iluminação nas paredes.      
-
 Protoboard = Desenvolvimento e testes do circuito.
 
 Biblioteca FastLed = Programação e controle dos LEDs.
@@ -70,8 +68,7 @@ Biblioteca FastLed = Programação e controle dos LEDs.
 
 # 💡 Sistema de Iluminação Inteligente
 
-Um dos principais recursos do Nexus Smart Home é o sistema de iluminação RGB, desenvolvido com fita LED WS2812. Diferentemente das fitas RGB convencionais, a WS2812 permite o controle individual dos LEDs, possibilitando a criação de diferentes efeitos luminosos, combinações de cores e animações programáveis. O gerenciamento do sistema é realizado por meio da placa Arduino UNO, responsável pelo processamento dos comandos e controle dos efeitos de iluminação. Para proporcionar melhor distribuição visual da luz, é utilizado acetato branco translúcido como elemento difusor, permitindo a criação de efeitos luminosos nas paredes internas da residência.
-
+Um dos principais recursos do Nexus Smart Home é o sistema de iluminação RGB, desenvolvido com fita LED WS2812. Diferentemente das fitas RGB convencionais, a WS2812 permite o controle individual dos LEDs, possibilitando a criação de diferentes efeitos luminosos, combinações de cores e animações programáveis. O gerenciamento do sistema é realizado por meio da placa Arduino UNO, responsável pelo processamento dos comandos e controle dos efeitos de iluminação. Para proporcionar melhor distribuição visual da luz.
 
 
 # 🏗️ Desenvolvimento Construtivo
@@ -100,7 +97,7 @@ O processo construtivo contempla:
 
 O projeto é dividido em três principais áreas:
 
-**Estrutura física:** desenvolvimento e montagem da residência em MDF.
+**Estrutura física:** desenvolvimento, montagem e pintura da residência em MDF.
 
 **Sistema eletrônico:** integração do Arduino UNO com a fita LED WS2812.
 
